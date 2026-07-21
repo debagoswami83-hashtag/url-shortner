@@ -12,12 +12,6 @@ A simple URL Shortener built using Node.js, Express, HTML, CSS and JavaScript.
 
 ## Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/url-shortener.git
-```
-
 Install dependencies
 
 ```bash
